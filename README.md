@@ -1,8 +1,4 @@
-<!-- Ribs028/Ribs028 profile README. Keep assets/banner.svg in the repo. -->
-
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Ribhav Modi, Web3 Technical Writer and Developer Relations" />
-</p>
+<!-- Ribs028/Ribs028 profile README. -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&speed=80&color=8B5CF6&background=00000000&vCenter=true&repeat=true&width=560&height=32&lines=Web3+Technical+Writer;AI+Systems+Builder;Developer+Educator;Building+in+Public" alt="rotating role titles" />
