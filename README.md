@@ -36,6 +36,11 @@ I write the article I wish I'd found when I was new to Web3: no jargon walls, no
 **Latest writing**
 
 <!-- BLOG-POST-LIST:START -->
+- [Identity, Not Intelligence: Why Know Your Agent Is the Real Frontier for Agentic Finance](https://medium.com/coinmonks/identity-not-intelligence-why-know-your-agent-is-the-real-frontier-for-agentic-finance-47b03061b79c?source=rss-129622f934c8------2)
+- [Non-Custodial Does Not Mean Safe: What Actually Bounds an AI Agent in 2026](https://medium.com/@Ribhavmodi/non-custodial-does-not-mean-safe-what-actually-bounds-an-ai-agent-in-2026-cebac67da4d3?source=rss-129622f934c8------2)
+- [Tokenized Stocks, Explained Without the Hype: What They Are and Why They’re Still Stocks &lpar;2026&rpar;](https://medium.com/coinmonks/tokenized-stocks-explained-without-the-hype-what-they-are-and-why-theyre-still-stocks-2026-7cd0ff4dd7ee?source=rss-129622f934c8------2)
+- [Model Context Protocol &lpar;MCP&rpar;: How AI Agents Connect to Real Tools, and the Security That Matters in…](https://towardsdev.com/model-context-protocol-mcp-how-ai-agents-connect-to-real-tools-and-the-security-that-matters-in-29501fcf2e89?source=rss-129622f934c8------2)
+- [What Is x402? The HTTP Payment Standard Built for AI Agents, Explained](https://blog.blockmagnates.com/what-is-x402-the-http-payment-standard-built-for-ai-agents-explained-51f702624511?source=rss-129622f934c8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
