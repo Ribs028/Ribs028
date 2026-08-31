@@ -47,16 +47,14 @@ I write the article I wish I'd found when I was new to Web3: no jargon walls, no
   <img src="https://img.shields.io/badge/GraphQL-161B22?style=flat-square&logo=graphql&logoColor=E535AB" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
   <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Ethereum-161B22?style=flat-square&logo=ethereum&logoColor=A9A9F5" alt="Ethereum" />
   <img src="https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
-  <img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Notion-161B22?style=flat-square&logo=notion&logoColor=FFFFFF" alt="Notion" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribs028&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C6BFEA&langs_count=8" alt="most used languages" />
+  <img src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=Ribs028&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C6BFEA&langs_count=8" alt="most used languages" />
 </p>
 
 <br />
